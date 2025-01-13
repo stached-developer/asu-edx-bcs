@@ -6,4 +6,4 @@
 
 ## Projects List
 
-1. [__Project 1__](https://github.com/stached-developer/asu-edx-bcs/tree/main/Project_01)
+1. [__Project 1__: Hardening a Linux Server](https://github.com/stached-developer/asu-edx-bcs/tree/main/Project_01)

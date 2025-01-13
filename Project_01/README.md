@@ -1,4 +1,4 @@
-# Project 01
+# Project 01: Hardening a Linux Server
 
 ## Project Manifest
 
