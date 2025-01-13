@@ -10,6 +10,7 @@
 
 ## Notes
 > Some of the commands might have been taught, but I could not recall, so I browsed the Internet to obtain clues or answers to my questions. The citations below are either sites that I obtained information from or co-students who offered data to assist in accomplishing the tasks when I ran into problems.
+> 
 > These are listed out by the corresponding __Activity Title__ in the '_Strahlend_William-Project_1_Technical_Brief.docx_' document table, providing the _Activity Title_ and then listing out the `command` used with the _source_ for that information.
 
 ---
