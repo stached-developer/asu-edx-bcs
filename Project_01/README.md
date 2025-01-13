@@ -3,7 +3,7 @@
 ## Project Manifest
 
 1. Project 1 Technical Brief by William Strahlend (filename: '_Strahlend_William-Project_1_Technical_Brief.docx_')
-2. Project 1 Report Summary (filename: '_Project_1_Report_Summary.docx_')
+2. Project 1 Report Summary by William Strahlend (filename: '_Strahlend_William-Project_1_Report_Summary.docx_')
 3. README file that includes Citations for Content Outside Bootcamp Course Instruction or Material (_see below_)
 
 ---
