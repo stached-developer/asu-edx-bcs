@@ -26,7 +26,7 @@
 
 ### Disabling Unnecessary Services
 
-> Ran into issues in an attempt to complete the tasks. _Co-student_, __Benjamin Chavez__ offered assistance with how he accomplished the task. Below are the different commands he provided.
+> In this activity, I ran into issues in an attempt to complete the associated tasks. _Co-student_, __Benjamin Chavez__ offered assistance with how he accomplished the tasks. Below are the different commands he provided to assist me.
 
 All 16 commands listed below were provided by _Co-student_, __Benjamin Chavez__:
 
@@ -47,7 +47,7 @@ All 16 commands listed below were provided by _Co-student_, __Benjamin Chavez__:
 15. `rm -rf /etc/smbd`
 16. `rm -rf /var/lib/smbd`
 
-### Confirm Schedule Ran (I added this activity)
+### Confirm Schedule Ran (_I added this activity_)
 
 1. `grep cron /var/log/syslog` Sources:
     - source: [Verify if crontab works | Ask Ubuntu](https://askubuntu.com/questions/85558/verify-if-crontab-works)
