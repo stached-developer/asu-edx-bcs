@@ -4,7 +4,9 @@
 
 1. Project 1 Technical Brief by William Strahlend (filename: '_Strahlend_William-Project_1_Technical_Brief.docx_')
 2. Project 1 Report Summary by William Strahlend (filename: '_Strahlend_William-Project_1_Report_Summary.docx_')
-3. README file that includes Citations for Content Outside Bootcamp Course Instruction or Material (_see below_)
+3. Hardening Script 01 (filename: '_hardening_script1.sh')
+4. Hardening Script 02 (filename: '_hardening_script2.sh')
+5. README file that includes Citations for Content Outside Bootcamp Course Instruction or Material (_see below_)
 
 ---
 
