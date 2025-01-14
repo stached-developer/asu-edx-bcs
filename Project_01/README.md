@@ -49,12 +49,3 @@ All 16 commands listed below were provided by _Co-student_, __Benjamin Chavez__:
 14. `rm /etc/init.d/smbd`
 15. `rm -rf /etc/smbd`
 16. `rm -rf /var/lib/smbd`
-
-### Confirm Schedule Ran (_I added this activity_)
-
-1. `grep cron /var/log/syslog` Sources:
-    - source: [Verify if crontab works | Ask Ubuntu](https://askubuntu.com/questions/85558/verify-if-crontab-works)
-    - source: [How to Check if a Cron Job has Run (Crontab Log) | InMotion Hosting](https://www.inmotionhosting.com/support/edu/cpanel/did-cron-job-run/)
-    - source: [How to Check if a Cron Job is Running | Cronitor](https://cronitor.io/guides/check-if-cron-job-is-running)
-2. `tail -10 /var/log/cron` (source: [How to find and read crontab logs | Cronitor](https://cronitor.io/guides/where-are-cron-logs-stored))
-3. `journalctl -t cron | tail -10` (source: [Using Logs to Troubleshoot Failing Cron Jobs | HealthChecks.io Blog](https://blog.healthchecks.io/2023/01/using-logs-to-troubleshoot-failing-cron-jobs/))
