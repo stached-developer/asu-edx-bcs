@@ -1,0 +1,57 @@
+======================================================
+  Web App Flags Obtained
+======================================================
+
+flag1:  f76sdfkg6sjf
+flag2:  ksdnd99dkas
+flag3:  sd7fk1nctx
+flag5:  mmssdi73g
+flag6:  ld8skd62hdd
+flag7:  bcs92sjsk233
+flag8:  87fsdkf6djf
+flag9:  dkkdudfkdy23
+flag10: ksdnd99dkas
+flag11: opshdkasy78s
+flag12: hsk23oncsd
+
+
+======================================================
+  Linux OS Flags Obtained
+======================================================
+
+flag1: h8s692hskasd
+flag2: 34.102.136.180
+flag3: s7euwehd
+flag4: 5
+flag5: 192.168.13.13
+flag6: 97610
+flag7: 8ks6sbhss
+flag8: 9dnx5shdf5
+flag9: wudks8f7sd
+flag10: wjasdufsdkg
+
+
+
+======================================================
+  Windows OS Flags Obtained
+======================================================
+
+flag1: trivera:$apr1$A0vSKwao$GV3sgGAj53j.c3GkS4oUC0
+flag2: 4d7b349705784a518bc876bc2ed6d4f6
+flag3: 89cb548970d44f348bb63622353ae278
+flag4: 822e3434a10440ad9cc086197819b49d
+flag5: 54fa8cd5c1354adc9214969d716673f5
+flag6: Computer!
+flag7: 6fd73e3a2c2740328d57ef32557c2fdc
+flag9: f7356e02f44c4fe7bf5374ff9bcbf872 
+
+
+
+
+
+
+
+
+
+
+
